@@ -8,9 +8,13 @@
 
 ### [C, C++]
 
-1. It is an application program using C,C++ languages for Registration of patients, Storing the details and Maintaining records of patients, doctors in an organized and efficient manner using file handling in which the reports can be easily generated for each patient.
+1. It is an application program using C,C++ languages for Registration of patients and doctors, 
+2. It provides functionality of storing the details and Maintaining records of patients and doctors in an organized and efficient manner 
+3. It uses file handling to store the details of patients and doctors successfully with which the reports can be easily generated for each patient with prescribed medicines, medical tests and remarks by doctors.
 
-2. Only Admin/registrar have the authorities to add, remove any doctor or patient to management system and can update their records.
+4. It also have the login functionality to maintain the security of the management system and privacy of patients and doctors.
+
+
 
 ## Modules
 

@@ -4,6 +4,14 @@
 
 ***
 
+ 
+
+### [C, C++]
+
+1. It is an application program using C,C++ languages for Registration of patients, Storing the details and Maintaining records of patients, doctors in an organized and efficient manner using file handling in which the reports can be easily generated for each patient.
+
+2. Only Admin/registrar have the authorities to add, remove any doctor or patient to management system and can update their records.
+
 ## Modules
 
 1. [Admin](#adminFunctions)
@@ -12,26 +20,21 @@
 
 3. [Patient](#patientFunctions)
 
-
-
-### [C, C++]
-
-1. It is an application program using C,C++ languages for Registration of patients, Storing the details and Maintaining records of patients, doctors in an organized and efficient manner using file handling in which the reports can be easily generated for each patient.
+![Home Menu Screenshot](Screenshots/Picture1.png)
 
 
 
-2. Only Admin/registrar have the authorities to add, remove any doctor or patient to management system and can update their records.
 
 ## Functionalities
 
 ***
 
-![Image text](https://example.com)
+
 
 <a name="adminFunctions"></a>
 
 ### Admin Panel
-![Image text](https://example.com)
+
 1. Add new patients record. 
 2. Add new doctors record. 
 3. Modify patients details. 
@@ -39,11 +42,13 @@
 5. Change password.
 6. Forgot password. 
 
+![Admin Menu Screenshot](Screenshots/Picture4.png)
+
 <a name="docFunctions"></a>
 
 ### Doctors Panel
 
-![Image text](../Screenshots/picture3.png)
+
 
 1. Patient Enquiry/Consultation. 
 
@@ -57,11 +62,13 @@
 
 6. Forgot password. 
 
+![Doctor Menu Screenshot](Screenshots/Picture3.png)
+
 <a name="patientFunctions"></a>
 
 ### Patients Panel
 
-![Image text](https://example.com)
+
 
 1. View patient report. 
 
@@ -74,3 +81,5 @@
 5. Change password.
 
 6. Forgot password. 
+
+![Patient Menu Screenshot](Screenshots/Picture2.png)

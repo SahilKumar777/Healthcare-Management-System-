@@ -83,3 +83,18 @@
 6. Forgot password. 
 
 ![Patient Menu Screenshot](Screenshots/Picture2.png)
+
+## Technologies
+
+***
+
+A list of technologies used within the project:
+
+* [C](https://example.com): Version 1.0 
+
+* [C++](https://example.com): Version 1.0
+
+* [Turbo C++](https://example.com): Version 1.0
+
+* [C++ Compiler](https://example.com): Version 1.0
+

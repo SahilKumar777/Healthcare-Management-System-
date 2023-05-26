@@ -1,6 +1,5 @@
-# Healthcare-Management-System-
+# Healthcare-Management-System
 
-[Link To Live Project](https://example.com)
 
 ***
 
@@ -95,11 +94,11 @@
 
 A list of technologies used within the project:
 
-* [C](https://example.com): Version 1.0 
+* [C](https://example.com): Version 17 
 
-* [C++](https://example.com): Version 1.0
+* [C++](https://example.com): Version 17
 
-* [Turbo C++](https://example.com): Version 1.0
+* [Turbo C++](https://example.com): Version 3.0
 
-* [C++ Compiler](https://example.com): Version 1.0
+* [C++ Compiler](https://example.com): Version 3.0
 
